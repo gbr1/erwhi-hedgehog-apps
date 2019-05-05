@@ -36,7 +36,7 @@ THE SOFTWARE.
       <link name="body">
         <visual name="visual">
           <geometry>
-            <mesh><uri>/home/user/catkin_ws/src/erwhi_remars_2019/models/3d/remars01.dae</uri></mesh>
+            <mesh><uri>/home/user/catkin_ws/src/erwhi-hedgehog-apps/erwhi_remars_2019/models/3d/remars01.dae</uri></mesh>
           </geometry>
         </visual>
       </link>
